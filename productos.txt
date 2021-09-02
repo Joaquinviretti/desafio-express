@@ -1,0 +1,20 @@
+[
+    {
+      "title":"Escuadra",
+      "price":124.45,
+      "thumbnail":"img/escuadra.png",
+      "id":"1"
+    },
+    {
+      "title":"lapiz",
+      "price":150,
+      "thumbnail":"img/lapiz.png",
+      "id":"2"
+    },
+    {
+      "title":"goma",
+      "price":14.45,
+      "thumbnail":"img/goma.png",
+      "id":"3"
+    }
+  ]
